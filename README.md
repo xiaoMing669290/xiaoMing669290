@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [Your Name]
+# 👋 Hello! I'm [XiaoMing]
 
 **Frontend Developer | Web3 Explorer | Life Enthusiast**
 
@@ -54,8 +54,7 @@ Currently deep diving into Web3.0 technology ecosystem, focusing on:
 
 ## 📩 Connect With Me
 
-- GitHub: [@yourid](https://github.com/yourid) 
-- LinkedIn: [linkedin.com/in/yourid](https://linkedin.com/in/yourid)
-- Email: [youremail@example.com](mailto:youremail@example.com)
+- GitHub: [@xiaoMing669290](https://github.com/xiaoMing669290) 
+- Email: [youremail@example.com](mailto:bbmogcs@gmail.com)
 
 > "Code is the brush, blockchain is the canvas"
