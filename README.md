@@ -55,6 +55,6 @@ Currently deep diving into Web3.0 technology ecosystem, focusing on:
 ## 📩 Connect With Me
 
 - GitHub: [@xiaoMing669290](https://github.com/xiaoMing669290) 
-- Email: [youremail@example.com](mailto:bbmogcs@gmail.com)
+- Email: [bbmogcs@gmail.com](mailto:bbmogcs@gmail.com)
 
 > "Code is the brush, blockchain is the canvas"
