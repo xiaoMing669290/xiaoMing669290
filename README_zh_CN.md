@@ -5,7 +5,7 @@
 ---
 
 [简体中文](https://github.com/xiaoMing669290/xiaoMing669290/blob/main/README_zh_CN.md) | 
-[English](https://github.com/xiaoMing669290/xiaoMing669290/edit/main/README.md)
+[English](https://github.com/xiaoMing669290/xiaoMing669290/blob/main/README.md)
 
 ---
 
