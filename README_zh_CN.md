@@ -1,11 +1,11 @@
-当然可以！以下是更新后的中文版 Markdown 自我介绍文档，**已删除“响应式电商平台”项目**，并保留所有其他内容：
-
----
-
-```markdown
 # 👋 你好！我是 小铭
 
 **前端开发工程师 | Web3 探索者 | 热爱生活的程序员**
+
+---
+
+[简体中文](https://github.com/xiaoMing669290/xiaoMing669290/blob/main/README_zh_CN.md) | 
+[English](https://github.com/xiaoMing669290/xiaoMing669290/edit/main/README.md)
 
 ---
 
@@ -70,6 +70,7 @@
 
 - 🏃 晨跑爱好者（累计1000+公里）  
 - 🚴 骑行爱好者（累计骑行10000+公里）  
+- 🎵 独立音乐制作人（Lo-fi风格）  
 - 📚 技术书籍月读者（推荐《区块链革命》）
 
 ---
@@ -80,8 +81,3 @@
 - 邮箱: [bbmogcs@gmail.com](mailto:bbmogcs@gmail.com)
 
 > “代码是创造的画笔，区块链是未来的画布”
-```
-
----
-
-如您有其他项目想添加进来，或者需要我帮您生成 PDF 或网页版本，请随时告诉我 😊
