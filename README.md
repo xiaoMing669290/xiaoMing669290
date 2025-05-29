@@ -1,4 +1,4 @@
-# 👋 Hello! I'm [XiaoMing]
+# 👋 Hello! I'm [Xiaoming]
 
 **Frontend Developer | Web3 Explorer | Life Enthusiast**
 
